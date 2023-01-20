@@ -1,10 +1,8 @@
-# Hi! 👨
+# Oi! Sou o Alexandre 👨
 
-Sou Alexandre  
+Estudante de Ciências da Computação | Formado em Redes de Computadores (Curso complementar) 
 
-Estudante de Ciências da Computação | Formado em Redes de Computadores (curso complementar com duração de 1 ano)  
-
-Tenho Python como minha lingugagem principal, e estou desenvolvendo minhas habilidades em C, desenvolvimento web e banco de dados
+Tenho Python como minha lingugagem principal, e estou desenvolvendo minhas habilidades em outras tecnologias
 
 <div>
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alexandre-S-bits&show_icons=true&theme=tokyonight"/>
